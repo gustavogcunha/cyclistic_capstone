@@ -1,9 +1,12 @@
-## Projeto: Estudo de Caso Cyclistic
-
+<h1 align="center">
+Projeto: Estudo de Caso Cyclistic
+</h1>
 
 > Esta análise é um ESTUDO DE CASO proposto para concluir com sucesso a FORMAÇÃO PROFISSIONAL GOOGLE DATA ANALYTICS e obter o certificado no final do curso. Este é um projeto sobre uma companhia de compartilhamento de bicicletas, que opera em uma grande cidade americana. A proposta é simular um projeto real, na qual um analista de dados poderia encontrar profissionalmente, tendo como o objetivo ajudar a equipe de marketing a obter insights para novas estratégias comerciais da empresa.
 
-![Bellabeat_Logo](/Imagens/Cyclistic_logo.png)
+<p align="center">
+<img src='Imagens/Cyclistic_logo.png' width='400'>
+</p>
 
 #### Sobre a Empresa
 
@@ -34,9 +37,11 @@
 
 #### Informações sobre o conjunto de dados
 
-> O conjunto de dados está armazenado na nuvem e disponível no link: [Link]()
+> O conjunto de dados está armazenado na nuvem e disponível no link:
 
-Para realizar a análise foi utilizado o histórico de usuários do ano de 2021.
+> <https://divvy-tripdata.s3.amazonaws.com/index.html>
+
+> Para realizar a análise foi utilizado o histórico de usuários do ano de 2021.
 
 
 #### Ferramentas Utilizadas para Análise
