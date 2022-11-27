@@ -52,4 +52,4 @@ Projeto: Estudo de Caso Cyclistic
 
 **Para ver o projeto, clique no link abaixo:**
 
-[Estudo de Caso Cyclistic](https://htmlpreview.github.io/?https://github.com/gustavogcunha/bellabeat_capstone/blob/main/Bellabeat_Capstone.html)
+[Estudo de Caso Cyclistic](https://htmlpreview.github.io/?https://github.com/gustavogcunha/cyclistic_capstone/blob/main/Cyclistic_Capstone.html)
